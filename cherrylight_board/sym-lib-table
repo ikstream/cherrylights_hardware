@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Connector)(type Legacy)(uri ${KIPRJMOD}/components/Connector.lib)(options "")(descr ""))
+  (lib (name Transistor_FET)(type Legacy)(uri ${KIPRJMOD}/components/Transistor_FET.lib)(options "")(descr ""))
+  (lib (name Connector_Generic)(type Legacy)(uri ${KIPRJMOD}/components/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KIPRJMOD}/components/power.lib)(options "")(descr ""))
+  (lib (name IRLZ34N)(type Legacy)(uri ${KIPRJMOD}/components/IRLZ34N.lib)(options "")(descr ""))
+)
